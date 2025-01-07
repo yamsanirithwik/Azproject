@@ -33,7 +33,7 @@ Azure App Service is a fully managed platform for building, deploying, and scali
 
 Screenshots: App Service Plan:
 
-Screenshot 2025-01-07 165407
+
 
 App Service:
 
