@@ -4,7 +4,7 @@ Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
 Demo Video URL: [https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf](https://youtu.be/qanA-0dn3eU)
 
-GitHub Repository URL: https://github.com/Gayathri0103/beauty-fashion
+GitHub Repository URL: https://github.com/yamsanirithwik/Azproject
 
 Industry: Education
 
