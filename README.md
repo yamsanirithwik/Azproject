@@ -1,6 +1,6 @@
 The purpose of the project is to create a visually appealing, user-friendly, and fully responsive website for a gym and fitness center. The site should effectively showcase the gym’s services, facilities, membership plans, and trainers while encouraging visitors to sign up or contact the gym.
 
-Project Demo URL: https://befashion1.z23.web.core.windows.net/
+Project Demo URL: https://yamsanirithwik.github.io/Azproject/
 
 Demo Video URL: [https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf](https://youtu.be/qanA-0dn3eU)
 
