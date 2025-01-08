@@ -2,7 +2,7 @@ The purpose of the project is to create a visually appealing, user-friendly, and
 
 Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
-Demo Video URL: https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf
+Demo Video URL: [https://youtu.be/Sz30hnZ7t0k?si=5flwmI74sRkAyxGf](https://youtu.be/qanA-0dn3eU)
 
 GitHub Repository URL: https://github.com/Gayathri0103/beauty-fashion
 
@@ -37,11 +37,13 @@ Screenshots: App Service Plan:
 
 App Service:
 
-Screenshot 2025-01-07 165443
+![app service sc](https://github.com/user-attachments/assets/32645d22-4db9-482f-9705-468fdaa6965c)
+
 
 App Service Editor:
 
-Screenshot 2025-01-07 165608
+![appserviceeditor](https://github.com/user-attachments/assets/c88257f6-3e6f-47f4-9d20-5c5e46367009)
+
 
 Description
 
@@ -51,18 +53,18 @@ Working Live Project Display:
 
 Home page:
 
-Screenshot 2025-01-07 170709
+![homepage](https://github.com/user-attachments/assets/e5a93712-745b-494f-b94a-e072a1de5702)
 
-Course Category:
 
-Screenshot 2025-01-07 170830
+fitness Category:
 
-Popular Courses:
+![Screenshot 2025-01-08 104540](https://github.com/user-attachments/assets/0746a01c-c6df-48c4-87bf-02686865b1df)
 
-Screenshot 2025-01-07 170954
+
 
 About Us Page:
 
-Screenshot 2025-01-07 171108
+![Screenshot 2025-01-08 104801](https://github.com/user-attachments/assets/2c6d1987-7728-475c-bac4-9ddc19bca4f4)
 
-Final Project Statement: Your one-stop destination for quality education and skill development. Empower yourself with our carefully curated resources, courses, and tools designed to help you excel in your learning journey. Stay ahead with the latest educational trends, enjoy engaging content, and unlock your potential for a brighter future!
+
+Final Project Statement:  create a visually appealing, user-friendly, and fully responsive website for a gym and fitness center. The site should effectively showcase the gym’s services, facilities, membership plans, and trainers while encouraging visitors to sign up or contact the gym.
